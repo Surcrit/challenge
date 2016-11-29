@@ -13,7 +13,7 @@ body {
 
 header {
 
-  background-image: url("../images/top_banner.jpg");
+  background-image: url("../images/hall.jpg");
   background-size: cover;
   position: relative;
 height: 800px;
@@ -55,15 +55,15 @@ ul li:last-child {
   word-spacing: 10px;
   letter-spacing: 3px;
   text-align: center;
-  margin-top: 369px;
+  margin-top: 280px;
   margin-left: 462px;
 }
 
 i {
   position: absolute;
-  color: #009b0d;
-margin-top: 551px;
-margin-left: 721px;
+  color:  rgb(235, 61, 15);
+margin-top: 480px;
+margin-left: 730px;
 opacity: 0.75;
 
 }
@@ -74,15 +74,15 @@ opacity: 0.75;
   float: left;
   width: 210.2px;
   height: 60px;
-  background-color: #009b0d;
+  background-color: rgb(235, 61, 15);
   color: #ffffff;
   font-size: 20px;
   text-align: center;
   line-height: 60px;
   opacity: 0.8;
   border-radius: 8%;
-  margin-left: 649px;
-  margin-top: 649px;
+  margin-left: 653px;
+  margin-top: 570px;
 }
 
 #how {
@@ -90,7 +90,7 @@ opacity: 0.75;
   font-size: 14px;
   position: absolute;
   float: left;
-  margin-top: 717px;
+  margin-top: 635px;
   margin-left: 679px;
   opacity: 0.75;
 }
